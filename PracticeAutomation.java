@@ -28,7 +28,7 @@ public class PracticeAutomation {
     } 
     else 
     {
-        System.out.println("Logout button is NOT displayed");
+        System.out.println("Logout button is not displayed");
     }
 	}
 
@@ -84,3 +84,4 @@ public class PracticeAutomation {
 	
 
 }
+
